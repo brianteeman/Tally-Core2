@@ -9,6 +9,7 @@
 //Version .8 added EEPROM config encyption
 //Version .9 added static client ip address and addressed heap corruption issue
 //Version 1.0 added Battery status
+//Version 1.01 Fixed intermittent issue with node_names
 
 // Config File Reader header file from
 // https://github.com/arduino-libraries/Arduino_CRC32
